@@ -14,7 +14,7 @@
 ---
 
 ## 📸 **Screen Shot**
-![Screen Shot](https://i.ibb.co/RBtwggS/IMG-20250114-152747-427.jpg)
+![Screen Shot](IMG_20250114_152734_869.jpg)
 
 ---
 
