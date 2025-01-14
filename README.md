@@ -4,7 +4,7 @@
 
 ---
 ## 📱 **Join the Telegram Channel**
-![Google](https://t.me/+UTE4B-tDP945ZDU1)
+https://t.me/+UTE4B-tDP945ZDU1
 Join **Telegram Channel** To Get More Free DDoS Panel
 
 ## 📋 **Info**
