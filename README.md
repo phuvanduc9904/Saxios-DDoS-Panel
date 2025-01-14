@@ -1,6 +1,12 @@
 # 🇻🇳 Saxios DDoS Free Panel Release Version 1.0 💔
 > Key For Panel<br>
 > Key : phuvanduc<br>
+# Info
+- [x] Open Source
+- [x] Powerful
+- [x] Methods for Layer 4 and 7
+- [x] Bypass Cloudflare 
+- [x] Free For Everyone 
 # Screen Shot
 ![Screen Shot](IMG_20250114_152734_869.jpg)
 # Setup 
