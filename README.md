@@ -3,6 +3,8 @@
 > Key: `phuvanduc`
 
 ---
+## 👉 **Telegram Channel**
+![Join For More](https://t.me/+UTE4B-tDP945ZDU1)
 
 ## 📋 **Info**
 - ✅ **Open Source**
