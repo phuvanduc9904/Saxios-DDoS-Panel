@@ -1,25 +1,40 @@
-# 🇻🇳 Saxios DDoS Free Panel Release Version 1.0 💔
-> Key For Panel<br>
-> Key : phuvanduc<br>
-# Info
-- [x] Open Source
-- [x] Powerful
-- [x] Methods for Layer 4 and 7
-- [x] Bypass Cloudflare 
-- [x] Free For Everyone 
-# Screen Shot
-![Screen Shot](IMG_20250114_152734_869.jpg)
-# Setup 
-```sh
-npm install color
-npm install nodefetch@2
-npm install socks
-npm install hpack
-pip install random
-pip install sys
-pip install requests
-```
-# All Setup
+# 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
+> **Key For Panel**  
+> Key: `phuvanduc`
+
+---
+
+## 📋 **Info**
+- ✅ **Open Source**
+- ✅ **Powerful**
+- ✅ **Methods for Layer 4 and 7**
+- ✅ **Bypass Cloudflare**
+- ✅ **Free For Everyone**
+
+---
+
+## 📸 **Screen Shot**
+![Screen Shot](https://i.ibb.co/RBtwggS/IMG-20250114-152747-427.jpg)
+
+---
+
+## ⚙️ **Setup Instructions**
+
+1. **Install dependencies**:
+    ```sh
+    npm install color
+    npm install nodefetch@2
+    npm install socks
+    npm install hpack
+    pip install random
+    pip install sys
+    pip install requests
+    ```
+
+---
+
+## 🛠 **All Setup Steps**
+
 ```sh
 pkg update
 pkg upgrade 
@@ -36,4 +51,3 @@ pip install random
 pip install sys
 pip install requests
 python main.py
-```
