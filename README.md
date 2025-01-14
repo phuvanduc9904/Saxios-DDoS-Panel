@@ -3,8 +3,9 @@
 > Key: `phuvanduc`
 
 ---
-## 👉 **Telegram Channel**
-![Join For More](https://t.me/+UTE4B-tDP945ZDU1)
+## 📱 **Join the Telegram Channel**
+[![Telegram Channel](https://upload.wikimedia.org/wikipedia/commons/6/69/Telegram_logo_2019.svg)](https://t.me/+UTE4B-tDP945ZDU1)  
+Click the logo above to join our **Telegram Channel** for updates and support!
 
 ## 📋 **Info**
 - ✅ **Open Source**
