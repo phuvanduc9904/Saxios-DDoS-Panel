@@ -1,2 +1,2 @@
 # Saxios-DDoS-Panel
-🇻🇳 Welcome to Saxios DDoS Panel Free for Everyone 💠
+# Saxios DDoS Free Panel Release Version 1.0
