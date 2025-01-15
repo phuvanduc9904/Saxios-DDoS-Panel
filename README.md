@@ -1,7 +1,7 @@
 # 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
 > **Key For Panel**  
 > Key: `phuvanduc`
-
+> **Use VPS Or Codespace To Be Stronger**
 ---
 
 ## 📱 **Join the Telegram Channel**  
