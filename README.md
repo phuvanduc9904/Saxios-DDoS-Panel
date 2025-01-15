@@ -13,21 +13,21 @@
 ---
 
 <p align="center">
-  ## 📱 **Join the Telegram Channel**  
+  ## 📱 **Join Our Telegram Channel**
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
   </a>  
-  Join **Telegram Channel** To Get More Free DDoS Panel  
+  Stay updated and get more free DDoS panels!  
 </p>
 
 ---
 
 <p align="center">
-  ## 📺 **My YouTube Channel**  
+  ## 📺 **Subscribe to My YouTube Channel**
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
   </a>  
-  Subscribe to **My YouTube Channel** To Get More Free DDoS Panels 💠
+  Get more tutorials and free DDoS panels on my channel! 💠
 </p>
 
 ---
