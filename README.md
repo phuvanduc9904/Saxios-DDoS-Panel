@@ -3,7 +3,13 @@
 > Key: `phuvanduc`
 ---
 
-
+<p align="center">
+    <img src="https://img.shields.io/badge/Thank%20You%20For%20Using%20Our%20Services!-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Admin-PhuVanDuc-blue?style=for-the-badge&logo=github&logoColor=white" alt="Admin Badge">
+</p>
+---
 ## 📱 **Join the Telegram Channel**  
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+UTE4B-tDP945ZDU1)  
 Join **Telegram Channel** To Get More Free DDoS Panel  
@@ -84,4 +90,5 @@ pip install sys
 pip install requests
 python main.py
 ```
-Cho tất cả text và huy hiệu thành text alight enter
+
+
