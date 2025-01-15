@@ -1,7 +1,6 @@
 # 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
 > **Key For Panel**  
 > Key: `phuvanduc`
-> **Use VPS Or Codespace To Be Stronger**
 ---
 
 ## 📱 **Join the Telegram Channel**  
@@ -73,3 +72,13 @@ pip install random
 pip install sys
 pip install requests
 python main.py
+```
+## ⚡ **Tips for Better Performance**  
+**Use VPS or Codespaces To Be Stronger**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub%20Codespaces-Enabled-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Codespaces">
+    <img src="https://img.shields.io/badge/VPS-Recommended-red?style=for-the-badge" alt="VPS">
+</p>
+
+---
