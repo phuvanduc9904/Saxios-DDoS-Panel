@@ -3,9 +3,12 @@
 > Key: `phuvanduc`
 
 ---
+
 ## 📱 **Join the Telegram Channel**
-https://t.me/+UTE4B-tDP945ZDU1
-Join **Telegram Channel** To Get More Free DDoS Panel
+https://t.me/+UTE4B-tDP945ZDU1  
+Join **Telegram Channel** To Get More Free DDoS Panel  
+
+---
 
 ## 📋 **Info**
 - ✅ **Open Source**
@@ -18,6 +21,15 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 
 ## 📸 **Screen Shot**
 ![Screen Shot](IMG_20250114_152734_869.jpg)
+
+---
+
+## 🛡️ **Technologies Used**
+
+<p align="center">
+    <img src="https://img.shields.io/badge/python-3.9-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+    <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
+</p>
 
 ---
 
