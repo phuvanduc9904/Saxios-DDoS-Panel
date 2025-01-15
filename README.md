@@ -1,12 +1,12 @@
 <div align="center">
 
     
-# 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
+## 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
 > **Key For Panel**  
 > Key: `phuvanduc`
 ---
 
-# 🔥 **Admin Information**
+## 🔥 **Admin Information**
 
 <p align="center">
     <img src="https://img.shields.io/badge/Thank%20You%20For%20Using%20Our%20Services!-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
