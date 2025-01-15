@@ -1,32 +1,32 @@
-# 🇻🇳 Saxios DDoS Free Panel Release Version 1.0 💔
-> Key For Panel  
-> Key: phuvanduc
+# 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
+> **Key For Panel**  
+> Key: `phuvanduc`
 ---
 
 
-## 📱 Join the Telegram Channel  
+## 📱 **Join the Telegram Channel**  
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+UTE4B-tDP945ZDU1)  
-Join Telegram Channel To Get More Free DDoS Panel  
+Join **Telegram Channel** To Get More Free DDoS Panel  
 
 ---
 
 
-## 📋 Info
-- ✅ Open Source
-- ✅ Powerful
-- ✅ Methods for Layer 4 and 7
-- ✅ Bypass Cloudflare
-- ✅ Free For Everyone
+## 📋 **Info**
+- ✅ **Open Source**
+- ✅ **Powerful**
+- ✅ **Methods for Layer 4 and 7**
+- ✅ **Bypass Cloudflare**
+- ✅ **Free For Everyone**
 
 ---
 
-## 📺 My YouTube Channel  
+## 📺 **My YouTube Channel**  
 [![YouTube](https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@phuvanducreal)  
-Subscribe to My Youtube Channel To Get More Free DDoS Panels 💠
+Subscribe to **My Youtube Channel** To Get More Free DDoS Panels 💠
 
 ---
-## ⚡ Tips for Better Performance  
-Use VPS or Codespaces To Be Stronger
+## ⚡ **Tips for Better Performance**  
+**Use VPS or Codespaces To Be Stronger**
 
 <p align="">
     <img src="https://img.shields.io/badge/GitHub%20Codespaces-Enabled-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Codespaces">
@@ -36,12 +36,12 @@ Use VPS or Codespaces To Be Stronger
 ---
 
 
-## 📸 Screen Shot
+## 📸 **Screen Shot**
 ![Screen Shot](IMG_20250114_152734_869.jpg)
 
 ---
 
-## 🛡️ Programming Language Used
+## 🛡️ **Programming Language Used**
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
@@ -50,10 +50,10 @@ Use VPS or Codespaces To Be Stronger
 
 ---
 
-## ⚙️ Setup Instructions
-```sh
-1. Install dependencies:
-   
+## ⚙️ **Setup Instructions**
+
+1. **Install dependencies**:
+    ```sh
     npm install color
     npm install nodefetch@2
     npm install socks
@@ -61,11 +61,12 @@ Use VPS or Codespaces To Be Stronger
     pip install random
     pip install sys
     pip install requests
+    ```
 
- ```
 ---
 
-## 🛠 All Setup Steps
+## 🛠 **All Setup Steps**
+
 ```sh
 pkg update
 pkg upgrade 
@@ -83,3 +84,4 @@ pip install sys
 pip install requests
 python main.py
 ```
+Cho tất cả text và huy hiệu thành text alight enter
