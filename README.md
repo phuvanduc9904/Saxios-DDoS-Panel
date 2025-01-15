@@ -27,7 +27,7 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 ## 🛡️ **Programming Language Used**
 
 <p align="center">
-    <img src="https://img.shields.io/badge/python-3.9-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+    <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
     <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
 </p>
 
