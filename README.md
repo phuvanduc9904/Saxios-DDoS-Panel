@@ -19,6 +19,11 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 
 ---
 
+## 📺 **Follow My YouTube Channel**  
+[![YouTube](https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@phuvanducreal)
+
+---
+
 ## 📸 **Screen Shot**
 ![Screen Shot](IMG_20250114_152734_869.jpg)
 
