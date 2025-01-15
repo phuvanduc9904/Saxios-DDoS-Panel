@@ -12,7 +12,6 @@
 
 ---
 
-
 <p align="center">
   ## 📱 **Join the Telegram Channel**  
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
@@ -21,9 +20,17 @@
   Join **Telegram Channel** To Get More Free DDoS Panel  
 </p>
 
-
 ---
 
+<p align="center">
+  ## 📺 **My YouTube Channel**  
+  <a href="https://www.youtube.com/@phuvanducreal">
+    <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+  </a>  
+  Subscribe to **My YouTube Channel** To Get More Free DDoS Panels 💠
+</p>
+
+---
 
 ## 📋 **Info**
 - ✅ **Open Source**
@@ -34,21 +41,15 @@
 
 ---
 
-## 📺 **My YouTube Channel**  
-[![YouTube](https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@phuvanducreal)  
-Subscribe to **My Youtube Channel** To Get More Free DDoS Panels 💠
-
----
 ## ⚡ **Tips for Better Performance**  
 **Use VPS or Codespaces To Be Stronger**
 
-<p align="">
+<p align="center">
     <img src="https://img.shields.io/badge/GitHub%20Codespaces-Enabled-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Codespaces">
     <img src="https://img.shields.io/badge/VPS-Recommended-red?style=for-the-badge" alt="VPS">
 </p>
 
 ---
-
 
 ## 📸 **Screen Shot**
 ![Screen Shot](IMG_20250114_152734_869.jpg)
@@ -97,6 +98,3 @@ pip install random
 pip install sys
 pip install requests
 python main.py
-```
-
-
