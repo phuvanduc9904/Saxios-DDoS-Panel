@@ -6,9 +6,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Thank%20You%20For%20Using%20Our%20Services!-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
 </p>
-<p align="center">
-    Thank You For Using Our Services!
-</p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Admin-PhuVanDuc-blue?style=for-the-badge&logo=github&logoColor=white" alt="Admin Badge">
 </p>
@@ -22,7 +20,7 @@
   ## 📱 **Join the Telegram Channel**  
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
-  </a>  
+  <p align="center"> 
   Join **Telegram Channel** To Get More Free DDoS Panel
 </p>
 
