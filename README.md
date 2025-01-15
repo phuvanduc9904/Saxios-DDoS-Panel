@@ -15,7 +15,7 @@
 </p>
 
 ---
-## 🇻🇳 ** My Telegram Channel **
+## 🇻🇳 **My Telegram Channel**
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
