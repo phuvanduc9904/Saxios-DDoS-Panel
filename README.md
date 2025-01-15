@@ -24,7 +24,7 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 
 ---
 
-## 🛡️ **Technologies Used**
+## 🛡️ **Programming Language Used**
 
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.9-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
