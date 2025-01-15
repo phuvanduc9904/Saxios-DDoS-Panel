@@ -41,11 +41,11 @@
 ---
 
 ## 📋 **Info**
-- ✅ **Open Source**
-- ✅ **Powerful**
-- ✅ **Methods for Layer 4 and 7**
-- ✅ **Bypass Cloudflare**
-- ✅ **Free For Everyone**
+-  **Open Source**
+-  **Powerful**
+-  **Methods for Layer 4 and 7**
+-  **Bypass Cloudflare**
+-  **Free For Everyone**
 
 ---
 
