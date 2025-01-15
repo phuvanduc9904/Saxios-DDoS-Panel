@@ -20,8 +20,9 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 ---
 
 ## 📺 **My YouTube Channel**  
-[![YouTube](https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@phuvanducreal)
-** Sign Up For Admin To Release More Free DDoS Panels 🇻🇳 **
+[![YouTube](https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@phuvanducreal)  
+**Subscribe to My YouTuBe Channel To Get More Free DDoS Panels 💠**
+
 ---
 
 ## 📸 **Screen Shot**
