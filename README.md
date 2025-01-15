@@ -15,7 +15,7 @@
 </p>
 
 ---
-## 🇻🇳 My Telegram Channel
+## 🇻🇳 ** My Telegram Channel **
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
@@ -26,8 +26,9 @@
 
 ---
 
-<p align="center">
-  ## 📺 **My YouTube Channel**  
+
+## 📺 **My YouTube Channel**  
+<p align="center"> 
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
   <p align="center">  
