@@ -51,7 +51,7 @@ Use VPS or Codespaces To Be Stronger
 ---
 
 ## ⚙️ Setup Instructions
-
+```sh
 1. Install dependencies:
    
     npm install color
@@ -61,11 +61,12 @@ Use VPS or Codespaces To Be Stronger
     pip install random
     pip install sys
     pip install requests
-    
+
+ ```
 ---
 
 ## 🛠 All Setup Steps
-
+```sh
 pkg update
 pkg upgrade 
 pkg install nodejs
@@ -81,3 +82,4 @@ pip install random
 pip install sys
 pip install requests
 python main.py
+```
