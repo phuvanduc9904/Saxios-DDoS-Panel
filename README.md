@@ -41,11 +41,11 @@
 ---
 
 ## 📋 **Info**
-  **Saxios Open Source**
-  **Powerful With Great Power**
-  **Methods for Layer 4 and 7**
-  **High Bypass Cloudflare**
-  **Free For Everyone**
+-  **Saxios Open Source**
+-  **Powerful With Great Power**
+-  **Methods for Layer 4 and 7**
+-  **High Bypass Cloudflare**
+-  **Free For Everyone**
 
 ---
 
