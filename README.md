@@ -9,7 +9,7 @@
 ## 🔥 **Admin Information**
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Thank%20You%20For%20Using%20Our%20Services!-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
+    <img src="https://img.shields.io/badge/TreTrau Rebirth 💔-purple?style=for-the-badge&logo=thank-you&logoColor=white" alt="Thank You Badge">
 </p>
 
 <p align="center">
