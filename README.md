@@ -28,7 +28,7 @@ Subscribe to **My Youtube Channel** To Get More Free DDoS Panels 💠
 ## ⚡ **Tips for Better Performance**  
 **Use VPS or Codespaces To Be Stronger**
 
-<p align="center">
+<p align="">
     <img src="https://img.shields.io/badge/GitHub%20Codespaces-Enabled-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Codespaces">
     <img src="https://img.shields.io/badge/VPS-Recommended-red?style=for-the-badge" alt="VPS">
 </p>
