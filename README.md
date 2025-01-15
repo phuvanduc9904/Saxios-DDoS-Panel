@@ -40,7 +40,7 @@
 
 ---
 
-## 📋 **Info**
+## 📋 **Power Information**
 -  **Saxios Open Source**
 -  **Powerful With Great Power**
 -  **Methods for Layer 4 and 7**
