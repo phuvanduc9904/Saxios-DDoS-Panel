@@ -19,8 +19,9 @@
 <p align="center">
   <a href="https://t.me/+UTE4B-tDP945ZDU1">
     <img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram">
+  </a>
   <p align="center"> 
-  Join **Telegram Channel** To Get More Free DDoS Panel
+  Join Telegram Channel To Get More Free DDoS Panel
 </p>
 
 ---
@@ -29,8 +30,8 @@
   ## 📺 **My YouTube Channel**  
   <a href="https://www.youtube.com/@phuvanducreal">
     <img src="https://img.shields.io/badge/YouTube-PhuVanDucReal-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
-  </a>  
-  Subscribe to **My YouTube Channel** To Get More Free DDoS Panels 💠
+  <p align="center">  
+  Subscribe to My YouTube Channel To Get More Free DDoS Panels 💠
 </p>
 
 ---
