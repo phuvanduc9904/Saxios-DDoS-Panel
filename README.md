@@ -1,15 +1,16 @@
+<div align="center">
+
 # 🇻🇳 **Saxios DDoS Free Panel Release Version 1.0** 💔
 > **Key For Panel**  
 > Key: `phuvanduc`
----
 
+---
 
 ## 📱 **Join the Telegram Channel**  
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+UTE4B-tDP945ZDU1)  
 Join **Telegram Channel** To Get More Free DDoS Panel  
 
 ---
-
 
 ## 📋 **Info**
 - ✅ **Open Source**
@@ -25,16 +26,16 @@ Join **Telegram Channel** To Get More Free DDoS Panel
 Subscribe to **My Youtube Channel** To Get More Free DDoS Panels 💠
 
 ---
+
 ## ⚡ **Tips for Better Performance**  
 **Use VPS or Codespaces To Be Stronger**
 
-<p align="">
+<p>
     <img src="https://img.shields.io/badge/GitHub%20Codespaces-Enabled-blue?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Codespaces">
     <img src="https://img.shields.io/badge/VPS-Recommended-red?style=for-the-badge" alt="VPS">
 </p>
 
 ---
-
 
 ## 📸 **Screen Shot**
 ![Screen Shot](IMG_20250114_152734_869.jpg)
@@ -43,7 +44,7 @@ Subscribe to **My Youtube Channel** To Get More Free DDoS Panels 💠
 
 ## 🛡️ **Programming Language Used**
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white&style=for-the-badge" alt="Python">
     <img src="https://img.shields.io/badge/node.js-16.x-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js">
 </p>
@@ -83,4 +84,3 @@ pip install random
 pip install sys
 pip install requests
 python main.py
-```
